@@ -37,7 +37,7 @@ app = FastAPI(
 ALLOWED_ORIGINS = [
     "http://localhost:5173",           # Local Vite
     "http://127.0.0.1:5173",          # Local Vite alternative
-    "https://customer-review-intelligence.vercel.app/",  # REPLACE with your Netlify URL   # REPLACE with your Vercel URL
+    "https://customer-review-intelligence.vercel.app",  # REPLACE with your Netlify URL   # REPLACE with your Vercel URL
 ]
 
 app.add_middleware(
