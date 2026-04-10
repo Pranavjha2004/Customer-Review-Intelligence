@@ -269,7 +269,7 @@ function App() {
       <footer className="py-16 text-center">
         <div className="inline-flex items-center gap-2 opacity-30 grayscale hover:grayscale-0 transition-all cursor-default">
            <Activity size={14} className="text-slate-400" />
-           <span className="text-[10px] font-bold text-slate-500 tracking-[0.3em] uppercase underline underline-offset-8">Refined Logic v3.0</span>
+           <span className="text-[10px] font-bold text-slate-500 tracking-[0.3em] uppercase underline underline-offset-8">Designed and Developed By ❤️ Pranav Jha</span>
         </div>
       </footer>
     </div>
